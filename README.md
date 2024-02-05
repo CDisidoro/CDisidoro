@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with NTTData Spain on a Schaman configuration for a telephone operator<br>🌱 I’m currently learning C++ and problem solving<br>⚡ BBQ on things > Anything else
+🔭 I’m finishing my final degree project<br>🌱 I’m currently learning Django and deploying a web app on the AWS Cloud<br>⚡ BBQ on things > Anything else
 
 
 ## 🌐 Socials:
